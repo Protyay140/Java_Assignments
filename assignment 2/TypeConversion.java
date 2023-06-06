@@ -43,7 +43,7 @@ class Conversion{
 public class TypeConversion{
     public static void main(String[] args) {
         Conversion c = new Conversion();
-        // c.basic_to_object();
+        c.basic_to_object();
         // c.object_to_basic();
         // c.basic_to_string();
         // c.string_to_object();

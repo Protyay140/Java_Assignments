@@ -163,6 +163,9 @@ public class Institute {
                             {
                                 s.edit();
                             }
+                         else{
+                            System.out.println("roll number is wrong...");
+                         }
                          break;
                          
                 case 4  : 
@@ -172,6 +175,9 @@ public class Institute {
                         {
                             f.edit();
                         }
+                        else{
+                            System.out.println("faculty id is wrong...");
+                         }
                          break;
             }
 
