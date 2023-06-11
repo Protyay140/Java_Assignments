@@ -1,3 +1,7 @@
+// Q)5. Design a student class with roll, name and score. Support must be there to set the score. Score is
+// non-negative and cannot exceed 100. For invalid score an exception has to be raised. User of set score
+// method will decide about the measures to deal with the exception.
+
 import java.util.Scanner;
 
 class EachStudent {
