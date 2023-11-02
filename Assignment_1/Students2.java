@@ -3,9 +3,9 @@ only, ii) roll and name only, iii) roll, name and score, iv) no value. Also incl
 whether constructors are working or not. Verify, copy constructor results into deep coy or not.....*/
 
 class Student2 {
-    private int roll;
-    private String name;
-    private float score;
+    private int roll ;
+    private String name ;
+    private float score ;
 
     public Student2() {
         roll = 0;
